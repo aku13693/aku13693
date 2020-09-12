@@ -1,8 +1,8 @@
-### Hi there 👋
+### Hi there 👋, Akash here !!
 
+I am tech-enthu who likes to learn new emerging technologies, code and build projects.
+Currently working as a Product Manager involved in designing , implementing and releasing of software products.
 
-🔭 I’m currently working on Javascript, Node Js, EJS
-🌱 I’m currently learning full stack software development
 <!--
 **aku13693/aku13693** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
