@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+
+🔭 I’m currently working on Javascript, Node Js, EJS
+🌱 I’m currently learning full stack software development
 <!--
 **aku13693/aku13693** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
